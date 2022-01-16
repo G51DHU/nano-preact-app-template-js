@@ -1,0 +1,15 @@
+/*
+
+1) Throw all your global css into index.html, for the sake of keeping blocking time low.
+Links regarding render blocking css:
+https://web.dev/render-blocking-resources/
+
+2) And for the sake of readability, create seperate css files for seperate components.
+
+3) Try to include css within the jsx files, for critical components.
+
+Here is a guide.
+https://reactjs.org/docs/faq-styling.html
+
+*/
+
