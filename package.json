@@ -14,8 +14,6 @@
     "@babel/plugin-transform-react-jsx": "^7.16.7",
     "@vitejs/plugin-react": "^1.1.1",
     "preact": "<11.0.0",
-    "rollup-plugin-terser": "^7.0.2",
-    "rollup-plugin-visualizer": "^5.5.4",
     "preact-render-to-string": "^5.1.19"
   },
   "devDependencies": {
